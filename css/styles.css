@@ -1,0 +1,19 @@
+.content {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  padding-top: 200px;
+}
+
+.content p {
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+.timer {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  font-size: 13rem;
+}
