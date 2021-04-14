@@ -50,6 +50,7 @@ class Timer {
     this.count = this.workDuration;
     this.updateDisplay();
     this.paused = true;
+    startBtn.innerHTML = "Start";
   }
 
   tick() {
